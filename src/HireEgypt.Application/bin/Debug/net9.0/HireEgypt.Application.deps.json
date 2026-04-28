@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HireEgypt.Application/1.0.0": {
+        "dependencies": {
+          "HireEgypt.Domain": "1.0.0"
+        },
+        "runtime": {
+          "HireEgypt.Application.dll": {}
+        }
+      },
+      "HireEgypt.Domain/1.0.0": {
+        "runtime": {
+          "HireEgypt.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HireEgypt.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HireEgypt.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

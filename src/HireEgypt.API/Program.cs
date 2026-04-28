@@ -1,5 +1,4 @@
-
-namespace HireEgypt
+  namespace HireEgypt
 {
     public class Program
     {

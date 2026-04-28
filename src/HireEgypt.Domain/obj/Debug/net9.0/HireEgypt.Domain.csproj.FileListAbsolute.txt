@@ -1,0 +1,12 @@
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\obj\Debug\net9.0\HireEgypt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\obj\Debug\net9.0\HireEgypt.Domain.AssemblyInfoInputs.cache
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\obj\Debug\net9.0\HireEgypt.Domain.AssemblyInfo.cs
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\obj\Debug\net9.0\HireEgypt.Domain.csproj.CoreCompileInputs.cache
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\obj\Debug\net9.0\HireEgypt.Domain.sourcelink.json
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\obj\Debug\net9.0\HireEgypt.Domain.dll
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\obj\Debug\net9.0\refint\HireEgypt.Domain.dll
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\obj\Debug\net9.0\HireEgypt.Domain.pdb
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\bin\Debug\net9.0\HireEgypt.Domain.deps.json
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\bin\Debug\net9.0\HireEgypt.Domain.dll
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\bin\Debug\net9.0\HireEgypt.Domain.pdb
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Domain\obj\Debug\net9.0\ref\HireEgypt.Domain.dll

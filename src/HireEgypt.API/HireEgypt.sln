@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36705.20 d17.14
@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireEgypt.API", "HireEgypt.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireEgypt.Application", "..\HireEgypt.Application\HireEgypt.Application.csproj", "{24E10D29-ECC2-4E86-AA71-22ECC5DB111D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireEgypt.Infrastructure", "..\HireEgypt.Infrustructure\HireEgypt.Infrastructure.csproj", "{0014A707-DD91-49D5-84B1-2B93F79C407F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireEgypt.Infrastructure", "..\HireEgypt.Infrastructure\HireEgypt.Infrastructure.csproj", "{0014A707-DD91-49D5-84B1-2B93F79C407F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireEgypt.Domain", "..\HireEgypt.Domain\HireEgypt.Domain.csproj", "{45DEAF69-1297-4861-BD37-F0FA89CE6D42}"
 EndProject

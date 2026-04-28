@@ -1,0 +1,16 @@
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\bin\Debug\net9.0\HireEgypt.Application.deps.json
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\bin\Debug\net9.0\HireEgypt.Application.dll
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\bin\Debug\net9.0\HireEgypt.Application.pdb
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\bin\Debug\net9.0\HireEgypt.Domain.dll
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\bin\Debug\net9.0\HireEgypt.Domain.pdb
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\HireEgypt.Application.csproj.AssemblyReference.cache
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\HireEgypt.Application.GeneratedMSBuildEditorConfig.editorconfig
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\HireEgypt.Application.AssemblyInfoInputs.cache
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\HireEgypt.Application.AssemblyInfo.cs
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\HireEgypt.Application.csproj.CoreCompileInputs.cache
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\HireEgypt.Application.sourcelink.json
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\HireEgyp.E1020C04.Up2Date
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\HireEgypt.Application.dll
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\refint\HireEgypt.Application.dll
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\HireEgypt.Application.pdb
+d:\Back end\Recap\new projects\HireEgypt\src\HireEgypt.Application\obj\Debug\net9.0\ref\HireEgypt.Application.dll

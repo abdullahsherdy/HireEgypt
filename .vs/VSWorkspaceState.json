@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\HireEgypt.API",
+    "\\src\\HireEgypt.API\\Controllers",
+    "\\src\\HireEgypt.API\\Middleware",
+    "\\src\\HireEgypt.API\\Properties",
+    "\\src\\HireEgypt.Domain",
+    "\\src\\HireEgypt.Domain\\Entities",
+    "\\src\\HireEgypt.Domain\\Enums",
+    "\\src\\HireEgypt.Domain\\Events"
+  ],
+  "SelectedNode": "\\src\\HireEgypt.API\\HireEgypt.sln",
+  "PreviewInSolutionExplorer": false
+}

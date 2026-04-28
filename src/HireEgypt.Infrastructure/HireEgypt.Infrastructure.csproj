@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HireEgypt.Application\HireEgypt.Application.csproj" />
+    <ProjectReference Include="..\HireEgypt.Domain\HireEgypt.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
